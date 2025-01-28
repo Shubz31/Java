@@ -3,6 +3,7 @@ class Game {
     protected String playerName;
 
     public void start() {
+        //ASCII Art
         System.out.println("""
                         \t IIIIIIII  IIIIIII  IIIIIIIIII IIIIIIIIII IIIIIIII          IIIIIIIIII IIIIIIIII II             II       III      II IIIIIIII
                                  II        II    II II         II         II      II            II     II        II            II II     II II    II II      II

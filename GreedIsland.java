@@ -25,9 +25,7 @@ class Game {
     }
 }
 
-class TreasureIslandGame extends Game {
-
-    
+class TreasureIslandGame extends Game {    
     @SuppressWarnings("ConvertToStringSwitch")
     public void play() {
         try (Scanner sc = new Scanner(System.in)) {

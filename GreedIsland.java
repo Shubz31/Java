@@ -92,7 +92,6 @@ class TreasureIslandGame extends Game {
         }
     }
 }
-
 public class GreedIsland {
     public static void main(String[] args) {
         TreasureIslandGame game = new TreasureIslandGame();
